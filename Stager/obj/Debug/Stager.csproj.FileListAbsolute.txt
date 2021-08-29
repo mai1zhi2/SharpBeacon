@@ -1,0 +1,6 @@
+C:\Users\kent\source\repos\SharpBeacon\Stager\bin\Debug\Stager.exe
+C:\Users\kent\source\repos\SharpBeacon\Stager\bin\Debug\Stager.pdb
+C:\Users\kent\source\repos\SharpBeacon\Stager\obj\Debug\Stager.csproj.AssemblyReference.cache
+C:\Users\kent\source\repos\SharpBeacon\Stager\obj\Debug\Stager.csproj.CoreCompileInputs.cache
+C:\Users\kent\source\repos\SharpBeacon\Stager\obj\Debug\Stager.exe
+C:\Users\kent\source\repos\SharpBeacon\Stager\obj\Debug\Stager.pdb

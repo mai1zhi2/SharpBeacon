@@ -1,0 +1,10 @@
+C:\Users\kent\source\repos\SharpBeacon\Beacon\bin\Debug\Beacon.exe
+C:\Users\kent\source\repos\SharpBeacon\Beacon\bin\Debug\Beacon.pdb
+C:\Users\kent\source\repos\SharpBeacon\Beacon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kent\source\repos\SharpBeacon\Beacon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kent\source\repos\SharpBeacon\Beacon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kent\source\repos\SharpBeacon\Beacon\obj\Debug\Beacon.csproj.AssemblyReference.cache
+C:\Users\kent\source\repos\SharpBeacon\Beacon\obj\Debug\Beacon.csproj.CoreCompileInputs.cache
+C:\Users\kent\source\repos\SharpBeacon\Beacon\obj\Debug\Beacon.csproj.CopyComplete
+C:\Users\kent\source\repos\SharpBeacon\Beacon\obj\Debug\Beacon.exe
+C:\Users\kent\source\repos\SharpBeacon\Beacon\obj\Debug\Beacon.pdb
