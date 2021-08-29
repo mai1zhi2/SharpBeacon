@@ -141,18 +141,19 @@ exit：
 setenv： 
   ![](https://github.com/mai1zhi2/SharpBeacon/blob/master/image/%E5%9B%BE%E7%89%8748.png)
 drives： 
-  ![]((https://github.com/mai1zhi2/SharpBeacon/blob/master/image/%E5%9B%BE%E7%89%8749.png)
+  ![](https://github.com/mai1zhi2/SharpBeacon/blob/master/image/%E5%9B%BE%E7%89%8749.png)
 Pwd：
   ![](https://github.com/mai1zhi2/SharpBeacon/blob/master/image/%E5%9B%BE%E7%89%8750.png)
 cd：
   ![](https://github.com/mai1zhi2/SharpBeacon/blob/master/image/%E5%9B%BE%E7%89%8751.png)
+  
 # 五、完善及改进
 后续需要改进的地方还有很多，有如下几点：
-1、该封装好就封装好，该用设计模式就用
-2、目前rsa密钥是pem方式就用了BouncyCastle库，要用回Exponent 和 Modulus
-3、更多的注入方式，APC、傀儡进程等
-4、更多的通信协议，如DNS、ICMP
-5、支持spawn**，因为当执行spawn和job后，teamserver端会回传相应的dll，要改ts端
-6、更多的功能，如mimi、keylogger、portscan、加载pe等
+* 1、该封装好就封装好，该用设计模式就用
+* 2、目前rsa密钥是pem方式就用了BouncyCastle库，要用回Exponent 和 Modulus
+* 3、更多的注入方式，APC、傀儡进程等
+* 4、更多的通信协议，如DNS、ICMP
+* 5、支持spawn**，因为当执行spawn和job后，teamserver端会回传相应的dll，要改ts端
+* 6、更多的功能，如mimi、keylogger、portscan、加载pe等
 最后谢谢大家观看。
 
