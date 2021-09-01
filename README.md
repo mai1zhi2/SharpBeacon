@@ -1,3 +1,16 @@
+# 如何使用
+启动teamserver后会生成beacon_keys文件，我们需要提取出里面的RSA 公私密钥后，复制到config.cs中，并在config.cs修改回传的URL和生成hash的随机数。
+# How to use
+Firstly, starting TeamServer and you got .cobaltstrike.beacon_keys meanwhile configurate listener etc.
+Secondly, compiling SharpBeacon with VisualStudio after you changed url and RSA private key and public key in config.cs
+And Then click sharpbeacon.exe. Once you got one beacon session and have fun!
+BTW this project as just a beacon which depends on CobaltStrike.   -- bopin2020 
+
+<br>
+关于使用syscall注入的问题 bopin2020师傅在win11测试calc.exe 创建线程没有成功；其他notepad,powershell都没有问题。感谢 bopin2020 师傅。
+<br>
+
+---
 # SharpBeacon
 CobaltStrike Beacon written in .Net 4  用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能
 
